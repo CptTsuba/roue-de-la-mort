@@ -120,7 +120,6 @@ function App() {
         { type: 'DRINK_2', weight: 20, label: '2 gorgées', description: 'Bois 2 gorgées' },
         { type: 'GIVE', weight: 15, label: 'Distribue 1', description: 'Donne 1 gorgée à quelqu\'un' },
         { type: 'ESTELLE', weight: 10, label: 'Message Estelle', description: 'Envoie un message à Estelle' },
-        { type: 'JUSTINE', weight: 10, label: 'Message Justine', description: 'Envoie un message à Justine' },
         { type: 'EVERYONE', weight: 7, label: 'Tout le monde', description: 'Tout le monde boit !' },
         { type: 'ULTIMATE', weight: 3, label: 'CUL SEC', description: 'Finis ton verre !' }
       ];
